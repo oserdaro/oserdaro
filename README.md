@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - 📫 You can reach me at: oserdaro@gmail.com
 - ⚡ Fun fact: I like travelling. I read and write. I do various sports. I like researching, critical thinking, analysing and making meaning.
 
+### Languages and Tools
