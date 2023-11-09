@@ -7,6 +7,7 @@
 
 Here are some ideas to get you started:
 -->
+![](https://komarev.com/ghpvc/?username=your-github-username)
 - 🔭 I’m currently working on a Learning Management System with Google Sheets
 - 🌱 I’m currently learning Data Science at Clarusway Academy
 - 👯 I’m looking to collaborate on Data Analysis with Pandas
