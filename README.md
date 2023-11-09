@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 ### Languages and Tools
 
-![]("https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css")
+<img src="[markdownmonstericon.png](https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css)"
+     alt="CSS"
+     style="float: left; margin-right: 10px;" />
