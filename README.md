@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Data Science at Clarusway Academy
 - 👯 I’m looking to collaborate on Data Analysis with Pandas
 - 💬 Skills: Python, Microsoft PowerBI, Microsoft VBA, Google Sheets, MySQL, JIRA, HTML / CSS
-- 📫 You can reach me at: oserdaro@gmail.com
 - ⚡ Fun fact: I like travelling. I read and write. I do various sports. I like researching, critical thinking, analysing and making meaning.
 
 ### Languages and Tools
@@ -28,5 +27,8 @@ Here are some ideas to get you started:
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158957-b1256181-356c-46a3-beb9-487af08a6266.png" alt="Wordpress" title="Wordpress"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code>
+	<code><img width="50" src="<a target="_blank" href="https://icons8.com/icon/lOqoeP2Zy02f/google-col">google-col</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>" alt="MySQL" title="MySQL"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code>
 </div>
