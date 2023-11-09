@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I like travelling. I read and write. I do various sports. I like researching, critical thinking, analysing and making meaning.
 
 ### Languages and Tools
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> 
