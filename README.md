@@ -1,13 +1,13 @@
 ## Hi there 👋
-## I am Serdar
+## I am Serdar!
 ### My greetings from Germany!
-### After 20 years' academic experience now I am a passionate Data Analyst and Scientist
+### After 20 years' academic experience now I am a passionate Data Analyst and Scientist.
 <!-- -->
 ![](https://komarev.com/ghpvc/?username=oserdaro)
 - 🔭 I’m currently working on a Learning Management System using Google AppsScript
 - 🌱 I’m currently studying Data Science at Clarusway Academy
 - 👯 I’m looking to collaborate on Data Analysis with Pandas
-- ⚡ Fun fact: I like reading, writing, travelling and doing sport. I also like researching, critical thinking, analysing to make meaning.
+- ⚡ I like reading, writing, travelling and doing sport. I also like researching, critical thinking, analysing to make meaning.
 
 ### Languages and Tools
 
