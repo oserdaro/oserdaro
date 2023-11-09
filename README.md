@@ -1,7 +1,7 @@
-##### Hi there 👋
-#### I am Serdar Oeztuerk
+## Hi there 👋
+## I am Serdar Oeztuerk
 ### Greetings from Germany
-## After 20 year's academic experience now a passionate Data Analyist and Scientist
+### After 20 years' academic experience now a passionate Data Analyst and Scientist
 <!--
 **oserdaro/oserdaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
