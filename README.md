@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code>
 </div>
-![icons8-google-sheets-48](https://github.com/oserdaro/oserdaro/assets/142231355/85584b70-e27f-44c0-aaaf-be0b967cd65a)
-![icons8-google-col-48](https://github.com/oserdaro/oserdaro/assets/142231355/83f7a5c6-cf65-48c4-b7cf-1957549197ee)
+![](https://github.com/oserdaro/oserdaro/assets/142231355/85584b70-e27f-44c0-aaaf-be0b967cd65a)
+![](https://github.com/oserdaro/oserdaro/assets/142231355/83f7a5c6-cf65-48c4-b7cf-1957549197ee)
