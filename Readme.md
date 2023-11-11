@@ -10,3 +10,4 @@
 
 ⚡ I like reading, writing, sports. I enjoy researching, analysing, and making meaning.
 
+![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
