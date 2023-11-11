@@ -6,7 +6,7 @@
 
 🌱 I’m currently studying Data Science at Clarusway Academy
 
-💬 My strengths are: Python, Tableau, Microsoft Excel VBA, Google Sheets, MySQL, Microsoft SQL Server, JIRA, HTML / CSS, Streamlit, Shiny
+💬 Languages and Tools: Python, PowerBI, Tableau, Microsoft Excel VBA, Google Apps Script, MySQL, JIRA, HTML / CSS
 
 ⚡ I like reading, writing, sports. I enjoy researching, analysing, and making meaning.
 
