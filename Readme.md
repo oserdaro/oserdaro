@@ -1,4 +1,4 @@
-## Hi!	    ![](https://komarev.com/ghpvc/?username=oserdaro&style=flat-square)
+## Hi!	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    ![](https://komarev.com/ghpvc/?username=oserdaro&style=flat-square)
 ## I am Serdar Oeztuerk
 ## Greetings from Germany!
 ### After 20 years of Academic experience now I am a passionate Data Analyst and Scientist.
