@@ -1,4 +1,4 @@
-## Hi!
+## Hi!			![](https://komarev.com/ghpvc/?username=oserdaro&style=flat-square)
 ## I am Serdar Oeztuerk
 ## Greetings from Germany!
 ### After 20 years of Academic experience now I am a passionate Data Analyst and Scientist.
@@ -6,11 +6,9 @@
 
 🌱 I’m currently studying Data Science at Clarusway Academy
 
-💬 Languages and Tools: Python, PowerBI, Tableau, Microsoft Excel VBA, Google Apps Script, MySQL, JIRA, HTML / CSS
-
 ⚡ I like reading, writing, sports. I enjoy researching, analysing, and making meaning.
 
-![](https://komarev.com/ghpvc/?username=oserdaro&style=flat-square)
+💬 Languages and Tools:
 <div align="center">
 	<code><img width="50" src="https://github.com/oserdaro/oserdaro/assets/142231355/784b5439-0bb5-4f9b-8c33-8cbcbbb11da7" alt="Collaborator" title="Collaborator"/></code>
 	<code><img width="50" src="https://github.com/oserdaro/oserdaro/assets/142231355/bb7d40d9-1129-4536-84dd-7e4590311f7b" alt="MSAccess" title="MSAccess"/></code>
