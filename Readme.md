@@ -1,4 +1,5 @@
-![Yellow Online Business Facebook Cover](https://github.com/oserdaro/oserdaro/assets/142231355/1923ea1b-6561-4dea-83e2-68754ee88ab5)
+![Yellow Online Business Facebook Cover](https://github.com/oserdaro/oserdaro/assets/142231355/a418141a-cd6a-4bf7-bb19-d2a4383a3a93)
+
 
 
 ## Hi!	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;    ![](https://komarev.com/ghpvc/?username=oserdaro&style=flat-square)
