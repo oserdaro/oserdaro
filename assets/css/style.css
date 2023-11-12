@@ -814,7 +814,7 @@ a:hover {
 }
 
 .hero-single .breadcrumb .breadcrumb-item.active {
-  color: #cde1f8;
+  color: #ffffff;
 }
 
 .hero-single .breadcrumb a {
@@ -1051,6 +1051,11 @@ a:hover {
   font-size: 1.2rem;
 }
 
+#work-title{
+  color: #0563bb;
+  font-size: 40px;
+}
+
 /*--------------------------------------------------------------
 # Portfolio Details
 --------------------------------------------------------------*/
@@ -1070,7 +1075,7 @@ a:hover {
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet {
   width: 12px;
   height: 12px;
-  background-color: #fff;
+  background-color: #ffffff;
   opacity: 1;
   border: 1px solid #0078ff;
 }
