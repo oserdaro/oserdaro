@@ -1,4 +1,4 @@
-![Yellow Online Business Facebook Cover](https://github.com/oserdaro/oserdaro/assets/142231355/a418141a-cd6a-4bf7-bb19-d2a4383a3a93)
+![White Minimalist Corporate Personal Profile LinkedIn Banner](https://github.com/oserdaro/oserdaro/assets/142231355/b68e10a4-5b39-469d-937d-2b74b87b18d4)
 
 
 
