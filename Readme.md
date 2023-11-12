@@ -1,5 +1,8 @@
+![White Minimalist Corporate Personal Profile LinkedIn Banner](https://github.com/oserdaro/oserdaro/assets/142231355/33dcf3dd-aee5-4758-959d-7b0015dda5c3)
+
+
+
 ## Hi!	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;    ![](https://komarev.com/ghpvc/?username=oserdaro&style=flat-square)
-## I am Serdar Oeztuerk
 ## Greetings from Germany!
 ### After 20 years of Academic experience now I am a passionate Data Analyst and Scientist.
 🔭 I’m currently working on a Spreadsheet based Learning Management System
@@ -20,6 +23,7 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="Jira" title="Jira"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="HTML" title="HTML"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158957-b1256181-356c-46a3-beb9-487af08a6266.png" alt="Wordpress" title="Wordpress"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
