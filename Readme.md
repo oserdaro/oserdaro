@@ -1,5 +1,4 @@
-![mountains lets do this](https://github.com/oserdaro/oserdaro/assets/142231355/39672c08-c187-4387-8fca-bed8d84efafe)
-
+![White Minimalist Corporate Personal Profile LinkedIn Banner](https://github.com/oserdaro/oserdaro/assets/142231355/33dcf3dd-aee5-4758-959d-7b0015dda5c3)
 
 
 
