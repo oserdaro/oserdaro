@@ -1,9 +1,10 @@
-![White Minimalist Corporate Personal Profile LinkedIn Banner](https://github.com/oserdaro/oserdaro/assets/142231355/b68e10a4-5b39-469d-937d-2b74b87b18d4)
+![mountains lets do this](https://github.com/oserdaro/oserdaro/assets/142231355/39672c08-c187-4387-8fca-bed8d84efafe)
+
 
 
 
 ## Hi!	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;    ![](https://komarev.com/ghpvc/?username=oserdaro&style=flat-square)
-## I am Serdar Oeztuerk
+## I am Serdar Oztuerk
 ## Greetings from Germany!
 ### After 20 years of Academic experience now I am a passionate Data Analyst and Scientist.
 🔭 I’m currently working on a Spreadsheet based Learning Management System
