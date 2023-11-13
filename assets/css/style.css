@@ -814,7 +814,8 @@ a:hover {
 }
 
 .hero-single .breadcrumb .breadcrumb-item.active {
-  color: #ffffff;
+  color: rgb(120, 158, 180);
+  font-weight: bold; 
 }
 
 .hero-single .breadcrumb a {
