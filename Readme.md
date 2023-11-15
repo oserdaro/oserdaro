@@ -5,7 +5,6 @@
 ## Hi!	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;    ![](https://komarev.com/ghpvc/?username=oserdaro&style=flat-square)
 ## Greetings from Germany!
 ### After 20 years of Academic experience now I am a passionate Data Analyst and Scientist.
-🔭 I’m currently working on a Spreadsheet based Learning Management System
 
 🌱 I’m currently studying Data Science at Clarusway Academy
 
