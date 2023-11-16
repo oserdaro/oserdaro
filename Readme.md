@@ -1,11 +1,9 @@
-![White Minimalist Corporate Personal Profile LinkedIn Banner](https://github.com/oserdaro/oserdaro/assets/142231355/33dcf3dd-aee5-4758-959d-7b0015dda5c3)
-
+![Beige Modern Elegant Personal LinkedIn Banner](https://github.com/oserdaro/oserdaro/assets/142231355/e5fa3498-672d-4060-935d-c6df66409929)
 
 
 ## Hi!	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;    ![](https://komarev.com/ghpvc/?username=oserdaro&style=flat-square)
 ## Greetings from Germany!
 ### After 20 years of Academic experience now I am a passionate Data Analyst and Scientist.
-🔭 I’m currently working on a Spreadsheet based Learning Management System
 
 🌱 I’m currently studying Data Science at Clarusway Academy
 
