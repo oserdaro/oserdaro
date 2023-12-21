@@ -1,4 +1,4 @@
-![bannerLinkedin5](https://github.com/oserdaro/oserdaro/assets/142231355/03b7cabd-8c45-49be-8256-1926f9fd2f9d)
+![bannerGithub1](https://github.com/oserdaro/oserdaro/assets/142231355/53bc8055-64b2-4ad4-afbf-3f2ad6c9ad9b)
 
 ## Hi!	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;    ![](https://komarev.com/ghpvc/?username=oserdaro&style=flat-square)
 ## Greetings from Germany!
