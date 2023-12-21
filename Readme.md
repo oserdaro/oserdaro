@@ -1,4 +1,4 @@
-![Beige Modern Elegant Personal LinkedIn Banner](https://github.com/oserdaro/oserdaro/assets/142231355/e5fa3498-672d-4060-935d-c6df66409929)
+![bannerGreenMedium](https://github.com/oserdaro/oserdaro/assets/142231355/ba7b2e96-55bf-46c0-bd69-fac1e5ac3573)
 
 
 ## Hi!	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;    ![](https://komarev.com/ghpvc/?username=oserdaro&style=flat-square)
