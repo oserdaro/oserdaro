@@ -1,10 +1,11 @@
-![bannerGithub1](https://github.com/oserdaro/oserdaro/assets/142231355/53bc8055-64b2-4ad4-afbf-3f2ad6c9ad9b)
+<a href="https://oserdaro.github.io/oserdaro/"><img src="https://github.com/oserdaro/oserdaro/assets/142231355/580d3413-2d7b-47a2-aa2b-8a1225ea3370" alt="" title="Click to see my profile webpage"></a>
+
 
 ## Hi!	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;    ![](https://komarev.com/ghpvc/?username=oserdaro&style=flat-square)
 ## Greetings from Germany!
-### After 20 years of Academic experience now I am a passionate Data Analyst and Scientist.
+### After 20 years of Academic experience now I am a passionate Data Scientist and Analyst.
 
-🌱 I’m currently studying Data Science at Clarusway Academy
+🌱 I’m currently studying Data Science at Clarusway IT School
 
 ⚡ I like reading, writing, sports. I enjoy researching, analysing, and making meaning.
 
@@ -24,7 +25,7 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="Jira" title="Jira"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="HTML" title="HTML"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158957-b1256181-356c-46a3-beb9-487af08a6266.png" alt="Wordpress" title="Wordpress"/></code>
+	
 
 
 </div>
