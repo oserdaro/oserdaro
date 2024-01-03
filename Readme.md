@@ -1,4 +1,4 @@
-<a href="https://oserdaro.github.io/oserdaro/"><img src="https://github.com/oserdaro/oserdaro/assets/142231355/2d61b6d5-8e0d-44d1-ad24-2d9b1f37c78a" alt="" title="Click to see my profile webpage"></a>
+<a href="https://oserdaro.github.io/oserdaro/"><img src="https://github.com/oserdaro/oserdaro/assets/142231355/580d3413-2d7b-47a2-aa2b-8a1225ea3370" alt="" title="Click to see my profile webpage"></a>
 
 
 ## Hi!	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;    ![](https://komarev.com/ghpvc/?username=oserdaro&style=flat-square)
