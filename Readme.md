@@ -33,9 +33,10 @@
 	<code><img width="50" src="https://github.com/oserdaro/oserdaro/assets/142231355/6a29ba69-3846-4450-ae51-f9053eb2bee7" alt="Matplotlib" title="Matplotlib"/></code>
 	<code><img width="50" src="https://github.com/oserdaro/oserdaro/assets/142231355/f16a10a5-be59-4306-9d33-2da8ab1c1c75" alt="Seaborn" title="Seaborn"/></code>
 	<code><img width="50" src="https://github.com/oserdaro/oserdaro/assets/142231355/8f0827bc-819c-49ab-b2a8-f7ea7e3a0f97" alt="Plotly" title="Plotly"/></code>
-	<code><img width="50" src="https://github.com/oserdaro/oserdaro/assets/142231355/de7a41bf-ae79-4226-bdb0-c262183a97df" alt="Scikit-Learn" title="Scikit-Learn"/></code>
+	<code><img width="50" src="https://github.com/oserdaro/oserdaro/assets/142231355/a7295d29-8b1f-4f76-a757-ba4658ea104e" alt="Scikit-Learn" title="Scikit-Learn"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" alt="Tensorflow" title="Tensorflow"/></code>
  	<code><img width="50" src="https://github.com/oserdaro/oserdaro/assets/142231355/13b026d5-d601-4637-b676-ad607ca9a4fb" alt="Keras" title="Keras"/></code>
+
 
 
 </div>
