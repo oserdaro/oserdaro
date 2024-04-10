@@ -12,7 +12,7 @@
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
  	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code>
+	<code><img width="50" src="https://github.com/oserdaro/oserdaro/assets/142231355/f7dd009c-89dd-4b84-9739-3f859f08fcbb" alt="MySQL" title="MySQL"/></code>
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" alt="MS SQL Server" title="MS SQL Server"/></code>
 	<code><img width="50" src="https://github.com/oserdaro/oserdaro/assets/142231355/784b5439-0bb5-4f9b-8c33-8cbcbbb11da7" alt="Collaborator" title="Collaborator"/></code>
 	<code><img width="50" src="https://github.com/oserdaro/oserdaro/assets/142231355/bb7d40d9-1129-4536-84dd-7e4590311f7b" alt="MSAccess" title="MSAccess"/></code>
@@ -36,7 +36,6 @@
 	<code><img width="50" src="https://github.com/oserdaro/oserdaro/assets/142231355/de7a41bf-ae79-4226-bdb0-c262183a97df" alt="Scikit-Learn" title="Scikit-Learn"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" alt="Tensorflow" title="Tensorflow"/></code>
  	<code><img width="50" src="https://github.com/oserdaro/oserdaro/assets/142231355/13b026d5-d601-4637-b676-ad607ca9a4fb" alt="Keras" title="Keras"/></code>
-
 
 
 
