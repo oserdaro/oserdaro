@@ -27,7 +27,7 @@
  <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="CSS" title="HTML"/></code>
  <code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" alt="CSS" title="HTML"/></code>
  <code><img width="50" src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" alt="CSS" title="HTML"/></code>
-<code><img width="50" src="https://skillicons.dev/icons?i=anaconda, sklearn)](https://skillicons.dev" alt="CSS" title="HTML"/></code>
+<code><img width="50" src="https://skillicons.dev/icons?i=anaconda,sklearn)](https://skillicons.dev" alt="CSS" title="HTML"/></code>
 
 
 
