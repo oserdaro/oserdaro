@@ -27,8 +27,18 @@
  <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="CSS" title="HTML"/></code>
  <code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" alt="CSS" title="HTML"/></code>
  <code><img width="50" src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" alt="CSS" title="HTML"/></code>
-<code><img width="50" src="https://skillicons.dev/icons?i=anaconda,sklearn)](https://skillicons.dev" alt="CSS" title="HTML"/></code>
 
+
+
+![Pandas](https://github.com/oserdaro/oserdaro/assets/142231355/71fc2d54-84f0-400d-9f73-096afa65a90d)
+![Ploty](https://github.com/oserdaro/oserdaro/assets/142231355/8f0827bc-819c-49ab-b2a8-f7ea7e3a0f97)
+![IBM SPSS Statistics](https://github.com/oserdaro/oserdaro/assets/142231355/d593327e-d390-4dc0-ac1e-a915bede1ab3)
+![Jupyter](https://github.com/oserdaro/oserdaro/assets/142231355/36b6af65-64cf-4c70-83ce-5e578df99ea2)
+![Keras](https://github.com/oserdaro/oserdaro/assets/142231355/13b026d5-d601-4637-b676-ad607ca9a4fb)
+![scikit-learn](https://github.com/oserdaro/oserdaro/assets/142231355/de7a41bf-ae79-4226-bdb0-c262183a97df)
+![Matplotlib](https://github.com/oserdaro/oserdaro/assets/142231355/6a29ba69-3846-4450-ae51-f9053eb2bee7)
+![NumPy](https://github.com/oserdaro/oserdaro/assets/142231355/6c39669f-2ae6-41b4-9f6d-a8a6be345e4b)
+![Slack](https://github.com/oserdaro/oserdaro/assets/142231355/23388739-04dc-4df3-b369-5d66387848e4)
 
 
 </div>
