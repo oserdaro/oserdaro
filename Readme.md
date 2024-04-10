@@ -23,30 +23,19 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="Jira" title="Jira"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="HTML"/></code>
- <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="CSS" title="HTML"/></code>
- <code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" alt="CSS" title="HTML"/></code>
- <code><img width="50" src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" alt="CSS" title="HTML"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
+ 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter" title="Jupyter"/></code>
+ 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" alt="MS SQL Server" title="MS SQL Server"/></code>
+ 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" alt="Tensorflow" title="Tensorflow"/></code>
+	<code><img width="50" src="https://github.com/oserdaro/oserdaro/assets/142231355/71fc2d54-84f0-400d-9f73-096afa65a90d" alt="Pandas" title="Pandas"/></code>
+	<code><img width="50" src="https://github.com/oserdaro/oserdaro/assets/142231355/8f0827bc-819c-49ab-b2a8-f7ea7e3a0f97" alt="Plotly" title="Plotly"/></code>
+	<code><img width="50" src="https://github.com/oserdaro/oserdaro/assets/142231355/d593327e-d390-4dc0-ac1e-a915bede1ab3" alt="SPSS" title="SPSS"/></code>
+	<code><img width="50" src="https://github.com/oserdaro/oserdaro/assets/142231355/36b6af65-64cf-4c70-83ce-5e578df99ea2" alt="Jupyter" title="Jupyter"/></code>
+	<code><img width="50" src="https://github.com/oserdaro/oserdaro/assets/142231355/13b026d5-d601-4637-b676-ad607ca9a4fb" alt="Keras" title="Keras"/></code>
+	<code><img width="50" src="https://github.com/oserdaro/oserdaro/assets/142231355/de7a41bf-ae79-4226-bdb0-c262183a97df" alt="Scikit-Learn" title="Scikit-Learn"/></code>
+	<code><img width="50" src="https://github.com/oserdaro/oserdaro/assets/142231355/6a29ba69-3846-4450-ae51-f9053eb2bee7" alt="Matplotlib" title="Matplotlib"/></code>
+	<code><img width="50" src="https://github.com/oserdaro/oserdaro/assets/142231355/6c39669f-2ae6-41b4-9f6d-a8a6be345e4b" alt="Numpy" title="Numpy"/></code>
 
-<code><img width="50" src="https://github.com/oserdaro/oserdaro/assets/142231355/71fc2d54-84f0-400d-9f73-096afa65a90d" alt="CSS" title="HTML"/></code>
-<code><img width="50" src="https://github.com/oserdaro/oserdaro/assets/142231355/8f0827bc-819c-49ab-b2a8-f7ea7e3a0f97" alt="CSS" title="HTML"/></code>
-<code><img width="50" src="https://github.com/oserdaro/oserdaro/assets/142231355/d593327e-d390-4dc0-ac1e-a915bede1ab3" alt="CSS" title="HTML"/></code>
-<code><img width="50" src="https://github.com/oserdaro/oserdaro/assets/142231355/36b6af65-64cf-4c70-83ce-5e578df99ea2" alt="CSS" title="HTML"/></code>
-<code><img width="50" src="https://github.com/oserdaro/oserdaro/assets/142231355/13b026d5-d601-4637-b676-ad607ca9a4fb" alt="CSS" title="HTML"/></code>
-<code><img width="50" src="https://github.com/oserdaro/oserdaro/assets/142231355/de7a41bf-ae79-4226-bdb0-c262183a97df" alt="CSS" title="HTML"/></code>
-<code><img width="50" src="https://github.com/oserdaro/oserdaro/assets/142231355/6a29ba69-3846-4450-ae51-f9053eb2bee7" alt="CSS" title="HTML"/></code>
-<code><img width="50" src="https://github.com/oserdaro/oserdaro/assets/142231355/6c39669f-2ae6-41b4-9f6d-a8a6be345e4b" alt="CSS" title="HTML"/></code>
-<code><img width="50" src="https://github.com/oserdaro/oserdaro/assets/142231355/23388739-04dc-4df3-b369-5d66387848e4" alt="CSS" title="HTML"/></code>
-
-![Pandas]()
-![Ploty]()
-![IBM SPSS Statistics]()
-![Jupyter]()
-![Keras]()
-![scikit-learn]()
-![Matplotlib]()
-![NumPy]()
-![Slack]()
 
 
 </div>
