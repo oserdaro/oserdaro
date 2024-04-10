@@ -28,7 +28,7 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
  	<code><img width="50" src="https://github.com/oserdaro/oserdaro/assets/142231355/d593327e-d390-4dc0-ac1e-a915bede1ab3" alt="SPSS" title="SPSS"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter" title="Jupyter"/></code>
-	<code><img width="50" src="https://github.com/oserdaro/oserdaro/assets/142231355/660897c7-6908-4ebd-a8dc-e39698e4398f" alt="Pandas" title="Pandas"/></code>
+	<code><img width="50" src="https://github.com/oserdaro/oserdaro/assets/142231355/e8c81d5b-51dc-4c5e-a76f-2d06e7be83d2" alt="Pandas" title="Pandas"/></code>
  	<code><img width="50" src="https://github.com/oserdaro/oserdaro/assets/142231355/6c39669f-2ae6-41b4-9f6d-a8a6be345e4b" alt="Numpy" title="Numpy"/></code>
 	<code><img width="50" src="https://github.com/oserdaro/oserdaro/assets/142231355/6a29ba69-3846-4450-ae51-f9053eb2bee7" alt="Matplotlib" title="Matplotlib"/></code>
 	<code><img width="50" src="https://github.com/oserdaro/oserdaro/assets/142231355/8f0827bc-819c-49ab-b2a8-f7ea7e3a0f97" alt="Plotly" title="Plotly"/></code>
