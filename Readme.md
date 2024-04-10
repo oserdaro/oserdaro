@@ -1,5 +1,4 @@
-<a href="https://oserdaro.github.io/oserdaro/"><img src="https://github.com/oserdaro/oserdaro/files/14928870/bannerGithubDSNoCert.pdf" alt="" title="Click to see my profile webpage"></a>
-
+<a href="https://oserdaro.github.io/oserdaro/"><img src="https://github.com/oserdaro/oserdaro/assets/142231355/3406129e-3295-4eba-afde-00ec4f8ab39a" alt="" title="Click to see my profile webpage"></a>
 
 ## Hi!	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;    ![](https://komarev.com/ghpvc/?username=oserdaro&style=flat-square)
 ## Greetings from Germany!
