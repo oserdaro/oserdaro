@@ -19,7 +19,7 @@
  	<code><img width="50" src="https://github.com/oserdaro/oserdaro/assets/142231355/2df9480c-7fcb-4dc1-999d-33a9f1dd6bbb" alt="VBA" title="VBA"/></code>
 	<code><img width="50" src="https://github.com/oserdaro/oserdaro/assets/142231355/a4fad3e4-ab1b-40bf-ac5c-6208c5ad65c6" alt="GAS" title="GAS"/></code>
 	<code><img width="50" src="https://github.com/oserdaro/oserdaro/assets/142231355/931b88be-6538-4348-a870-3398a97d60de" alt="PowerBI" title="PowerBI"/></code>
-	<code><img width="50" src="https://github.com/oserdaro/oserdaro/assets/142231355/36b6af65-64cf-4c70-83ce-5e578df99ea2" alt="Tableau" title="Tableau"/></code>
+	<code><img width="50" src="https://github.com/oserdaro/oserdaro/assets/142231355/8fc732ba-889a-48c4-8f41-df613075f382" alt="Tableau" title="Tableau"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
@@ -36,6 +36,7 @@
 	<code><img width="50" src="https://github.com/oserdaro/oserdaro/assets/142231355/de7a41bf-ae79-4226-bdb0-c262183a97df" alt="Scikit-Learn" title="Scikit-Learn"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" alt="Tensorflow" title="Tensorflow"/></code>
  	<code><img width="50" src="https://github.com/oserdaro/oserdaro/assets/142231355/13b026d5-d601-4637-b676-ad607ca9a4fb" alt="Keras" title="Keras"/></code>
+
 
 
 
