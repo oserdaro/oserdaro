@@ -5,6 +5,7 @@
 ## Greetings from Germany!
 ### After 20 years of Academic experience now I am a passionate Data Scientist and Analyst.
 
+🌱 I’ve finished the Data Analysis and Visualization Course at Clarusway IT School
 🌱 I’m currently studying Data Science at Clarusway IT School
 
 ⚡ I like reading, writing, sports. I enjoy researching, analysing, and making meaning.
