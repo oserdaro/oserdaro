@@ -38,6 +38,13 @@
 	<code><img width="50" src="https://github.com/oserdaro/oserdaro/assets/142231355/a7295d29-8b1f-4f76-a757-ba4658ea104e" alt="Scikit-Learn" title="Scikit-Learn"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" alt="Tensorflow" title="Tensorflow"/></code>
  	<code><img width="50" src="https://github.com/oserdaro/oserdaro/assets/142231355/13b026d5-d601-4637-b676-ad607ca9a4fb" alt="Keras" title="Keras"/></code>
+  	<code><img width="50" src="https://github.com/oserdaro/oserdaro/assets/142231355/9e203f30-a918-4f52-9abd-fa215be7d569" alt="NLTK" title="NLTK"/></code>
+  	<code><img width="50" src="https://github.com/oserdaro/oserdaro/assets/142231355/712e88dd-c29c-46fb-8fc5-e03f9d7978e8" alt="TextBlob" title="TextBlob"/></code>
+  	<code><img width="50" src="https://github.com/oserdaro/oserdaro/assets/142231355/66f4f03e-57b6-4d44-b728-4817ab91b56e" alt="Gensim" title="Gensim"/></code>
+   	<code><img width="50" src="https://github.com/oserdaro/oserdaro/assets/142231355/cd644950-6e11-41ef-9fd4-6298d82b92e7" alt="Spacy" title="Spacy"/></code>
+
+
+
 
 
 
