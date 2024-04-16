@@ -40,7 +40,7 @@
  	<code><img width="50" src="https://github.com/oserdaro/oserdaro/assets/142231355/13b026d5-d601-4637-b676-ad607ca9a4fb" alt="Keras" title="Keras"/></code>
   	<code><img width="50" src="https://github.com/oserdaro/oserdaro/assets/142231355/ca75910a-f7a1-4ff1-879d-a806f00d6725" alt="NLTK" title="NLTK"/></code>
   	<code><img width="50" src="https://github.com/oserdaro/oserdaro/assets/142231355/70363f17-42b3-4d17-a951-19ff05427207" alt="TextBlob" title="TextBlob"/></code>
-  	<code><img width="50" src="https://github.com/oserdaro/oserdaro/assets/142231355/db6fe182-cc08-4c8d-aa25-dfd01bfc3802" alt="Gensim" title="Gensim"/></code>
+  	<code><img width="50" src="https://github.com/oserdaro/oserdaro/assets/142231355/ecb98d64-3747-4edc-8626-8535f9772940" alt="Gensim" title="Gensim"/></code>
    	<code><img width="50" src="https://github.com/oserdaro/oserdaro/assets/142231355/cd644950-6e11-41ef-9fd4-6298d82b92e7" alt="Spacy" title="Spacy"/></code>
 
 
